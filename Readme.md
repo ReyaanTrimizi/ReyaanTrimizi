@@ -106,7 +106,9 @@ AI / Machine Learning | Deep Learning | Computer Vision | Operating Systems | Da
   />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="End GIF">
+</p>
 
 <p align="center">
   💼 <a href="https://linkedin.com/in/reyaantrimizi">LinkedIn</a> &nbsp;|&nbsp; 📧 <a href="mailto:r.trimizi@gmail.com">Email</a> &nbsp;|&nbsp; 🌐 <a href="https://github.com/ReyaanTrimizi">Portfolio</a>
