@@ -18,38 +18,43 @@
 Hey there! 👋  
 I'm **Reyaan**, a Software Engineering student at the **University of Ottawa** and an aspiring **Machine Learning Engineer** who loves building systems that *see, reason, and decide*.  
 
-I’ve interned at **PackageX** and **VisionX**, where I worked on real-world computer vision pipelines from OCR and document extraction with AI to object detection and optimization. I’m currently expanding my toolkit across **autonomy, defense tech, and fintech**, blending my curiosity for perception, data, and intelligent systems.
+I’ve interned at **PackageX** and **VisionX**, two NYC-based AI startups, where I built real-world computer vision and NLP systems, ranging from OCR and document key-value extraction to retail shelf analysis and item classification using deep learning. My work combined **object detection, visual optimization, and LLM integration** for practical deployments across logistics and retail.  
 
-Outside of work, I lift 🏋️, play chess casually ♟️, binge tech podcasts 🎧, and dive into markets and finance 📈.  
+I’m currently expanding my toolkit across **autonomy, defense tech, and fintech**, blending curiosity for perception, optimization, and intelligent decision systems.  
+
+Outside of work, I lift 🏋️, play chess ♟️, binge tech podcasts 🎧, and explore markets and quant finance 📈.  
 
 ---
 
 ## 🧠 Featured Projects
 
-### 🛰️ **ScanMatrix** – Long-Range Barcode Perception  
-A capstone tackling one of logistics hardest problems: reading barcodes **1–2 m away** under blur and glare.  
+### 🛰️ **ScanMatrix**: Long-Range Barcode Perception  
+A capstone tackling one of **logistics hardest problems** — reading barcodes **1–2 m away** under blur and glare.  
 - Combines **YOLOv8, DETR, DINOv3** for detection, geometric rectification, and **DeblurGAN-v2 / Real-ESRGAN** for image restoration.  
-- Introduces multi-decoder fallback logic (ZXing/ZBar) and confidence aggregation for reliable decoding.  
-**Stack:** Python · PyTorch · OpenCV · YOLOv8/DETR/DINOv2 · Real-ESRGAN · DeblurGAN-v2  
+- Uses **multi-decoder fallback** (ZXing/ZBar) and dynamic confidence aggregation for high-reliability decoding.  
+- Designed for use in warehouse automation and mobile scanning systems.  
+**Stack:** Python · PyTorch · OpenCV · YOLOv8/DETR/DINOv3 · Real-ESRGAN · DeblurGAN-v2  
 
 ---
 
-### 💹 **Aurion** – Portfolio Analytics & Optimization  
-A finance dashboard that bridges AI and quant logic.  
-- Multi-account data model + optimization engine using **OR-Tools** for allocation and scenario analysis.  
-- In progress: risk metrics, Monte Carlo simulation, and web UI (Panel / Streamlit).  
-**Stack:** Python · Pandas · OR-Tools · SQL · Streamlit  
+### 💹 **Aurion**: Intelligent Portfolio & Finance OS  
+A modern **personal finance and investment platform** blending **ML-driven analytics** and real-world portfolio tools.  
+- Visualizes stock, crypto, and ETF data through interactive charts, performance metrics, and simulated portfolios.  
+- Integrates **credit card tracking, CSV imports, and automated expense categorization** for budgeting and reporting.  
+- Includes a **multi-account optimization engine** using **OR-Tools** for allocation and what-if scenarios.  
+- In progress: **AI financial assistant / chatbot**, risk metrics, and predictive analytics.
+**Stack:** Python · Pandas · SQL · OR-Tools · Streamlit · Next.js · OpenAI APIs  
 
 ---
 
-### 🧭 **AstraRoute** – Perception → Planning Simulator  
-An autonomy sandbox connecting **lane & obstacle perception** to **Kalman-filtered sensor fusion** and **path planning (A\*, RRT\*)**.  
+### 🧭 **AstraRoute**: Perception → Planning Simulator  
+A Python sandbox connecting **lane and obstacle perception** to **sensor fusion** and **path planning (A\*, RRT\*)**, simulating autonomy pipelines for ground robots.  
 **Stack:** Python · OpenCV · NumPy · Matplotlib  
 
 ---
 
-### 📚 **Alexandr.ai** – Decentralized AI Knowledge Library  
-A blockchain-backed vector search library using **Llama models + ChromaDB + IPFS** to store and retrieve information semantically and immutably.  
+### 📚 **Alexandr.ai**: Decentralized AI Knowledge Library  
+An experimental **decentralized AI memory system** built on **Llama models, ChromaDB, and IPFS**, enabling semantic storage and retrieval of information.  
 **Stack:** Python · Transformers · ChromaDB · IPFS  
 
 ---
@@ -58,7 +63,7 @@ A blockchain-backed vector search library using **Llama models + ChromaDB + IPFS
 
 **Languages:** Python | C/C++ | TypeScript | SQL | Kotlin  
 **ML/CV:** PyTorch | TensorFlow | DETR | DINOv3 | YOLOv8 | OpenCV | Hugging Face  
-**Web/Backend:** FastAPI | Flask | Next.js | React | Shine | Streamlit | Docker  
+**Web/Backend:** FastAPI | Flask | Next.js | React | Shiny | Streamlit | Docker  
 **Infra & Data:** AWS | GCP | Postgres | MySQL | Redis | GitHub Actions  
 **Concepts:** OCR | LLMs & Chatbots | Optimization | Sensor Fusion | Simulation | Full-stack Dev  
 
@@ -70,25 +75,22 @@ AI / Machine Learning | Deep Learning | Computer Vision | Operating Systems | Da
 ---
 
 ## 🧭 Industries I’m Exploring
-- 🚗 **Autonomy & Robotics** – perception, SLAM, tracking  
-- 🛡️ **Defense & Simulation** – real-time decision systems, edge AI  
-- 💹 **Fintech & Quant AI** – portfolio analytics, optimization, risk models  
-- 🏭 **Logistics & Retail** – document AI & vision automation  
-- 🧬 **Health & Bio-AI** – medical CV & data-driven diagnostics  
+- 🚗 **Autonomy & Robotics** – perception, SLAM, tracking, multi-sensor fusion  
+- 🛡️ **Defense & Simulation** – real-time decision systems, target recognition, and mission planning  
+- 💹 **Fintech & Quant AI** – predictive modeling, portfolio analytics, optimization, and risk management  
+- 🏭 **Logistics & Retail** – document AI, visual inspection, and warehouse automation  
+- 🧬 **Health & Bio-AI** – computational biology, protein structure modeling, and medical imaging pipelines (project in progress)  
 
 ---
 
 ## 📈 GitHub Snapshot
 
 <p align="center">
-  <!-- Stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=ReyaanTrimizi&show_icons=true&theme=radical&hide_border=true&title_color=E63946&icon_color=E63946"
     height="165"
     alt="Reyaan's GitHub Stats"
   />
-
-  <!-- Streak -->
   <img
     src="https://streak-stats.demolab.com?user=ReyaanTrimizi&theme=radical&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=E63946"
     height="165"
@@ -97,8 +99,6 @@ AI / Machine Learning | Deep Learning | Computer Vision | Operating Systems | Da
 </p>
 
 <p align="center">
-  
-  <!-- Top Languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyaanTrimizi&layout=compact&theme=radical&hide_border=true&title_color=E63946"
     height="165"
@@ -106,7 +106,8 @@ AI / Machine Learning | Deep Learning | Computer Vision | Operating Systems | Da
   />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="End GIF">
-</p>
+---
 
+<p align="center">
+  💼 <a href="https://linkedin.com/in/reyaantrimizi">LinkedIn</a> &nbsp;|&nbsp; 📧 <a href="mailto:r.trimizi@gmail.com">Email</a> &nbsp;|&nbsp; 🌐 <a href="https://github.com/ReyaanTrimizi">Portfolio</a>
+</p>
