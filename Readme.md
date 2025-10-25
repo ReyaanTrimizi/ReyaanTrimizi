@@ -87,12 +87,12 @@ AI / Machine Learning | Deep Learning | Computer Vision | Operating Systems | Da
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ReyaanTrimizi&show_icons=true&theme=radical&hide_border=true&title_color=E63946&icon_color=E63946"
+    src="https://github-readme-stats.vercel.app/api?username=ReyaanTrimizi&show_icons=true&theme=radical&hide_border=true&title_color=E63946&icon_color=E63946&cache_seconds=1800&v=2"
     height="165"
     alt="Reyaan's GitHub Stats"
   />
   <img
-    src="https://streak-stats.demolab.com?user=ReyaanTrimizi&theme=radical&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=E63946"
+    src="https://streak-stats.demolab.com?user=ReyaanTrimizi&theme=radical&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=E63946&cache_seconds=1800&v=2"
     height="165"
     alt="Reyaan's GitHub Streak"
   />
@@ -100,7 +100,7 @@ AI / Machine Learning | Deep Learning | Computer Vision | Operating Systems | Da
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyaanTrimizi&layout=compact&theme=radical&hide_border=true&title_color=E63946"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyaanTrimizi&layout=compact&theme=radical&hide_border=true&title_color=E63946&cache_seconds=1800&v=2"
     height="165"
     alt="Top Languages"
   />
