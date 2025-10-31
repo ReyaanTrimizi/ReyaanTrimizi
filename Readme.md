@@ -87,7 +87,7 @@ AI / Machine Learning | Deep Learning | Computer Vision | Operating Systems | Da
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ReyaanTrimizi&show_icons=true&theme=radical&hide_border=true&title_color=E63946&icon_color=E63946&cache_seconds=1800&v=2"
+    src="https://github-readme-stats-green-phi-23.vercel.app/api?username=ReyaanTrimizi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=2025-10-31-1"
     height="165"
     alt="Reyaan's GitHub Stats"
   />
