@@ -86,26 +86,26 @@ AI / Machine Learning | Deep Learning | Computer Vision | Operating Systems | Da
 ## 📈 GitHub Snapshot
 
 <p align="center">
-  <!-- Stats -->
+  <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats-green-phi-23.vercel.app/api?username=ReyaanTrimizi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=2025-10-31-2"
+    src="https://github-readme-stats-green-phi-23.vercel.app/api?username=ReyaanTrimizi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
     height="165"
-    alt="Reyaan's GitHub Stats"
+    alt="Reyaan Trimizi GitHub Stats"
   />
-  <!-- Streak -->
+  <!-- GitHub Streak -->
   <img
-    src="https://streak-stats.demolab.com?user=ReyaanTrimizi&theme=radical&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=E63946&v=2025-10-31-2"
+    src="https://streak-stats.demolab.com?user=ReyaanTrimizi&theme=radical&hide_border=true"
     height="165"
-    alt="Reyaan's GitHub Streak"
+    alt="Reyaan Trimizi GitHub Streak"
   />
 </p>
 
 <p align="center">
   <!-- Top Languages -->
   <img
-    src="https://github-readme-stats-green-phi-23.vercel.app/api/top-langs/?username=ReyaanTrimizi&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=8&v=2025-10-31-2"
+    src="https://github-readme-stats-green-phi-23.vercel.app/api/top-langs/?username=ReyaanTrimizi&layout=compact&theme=radical&hide_border=true&langs_count=6"
     height="165"
-    alt="Top Languages"
+    alt="Reyaan Trimizi Top Languages"
   />
 </p>
 
